@@ -22,6 +22,5 @@ public class Evaluaciones {
             //mediaEvaluaviones += nota;
             //totalEvaluaciones++;
         }
-        System.out.println("la media de las evaluaciones es: " + mediaEvaluaviones / totalEvaluaciones);
     }
 }
